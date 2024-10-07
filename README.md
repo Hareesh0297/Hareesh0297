@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hareesh
 - 👀 I’m interested in learing new tools 
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning DevSecOps
 - 📫 Drop @ hareesh.it422@gmail.com
 
 <!---
